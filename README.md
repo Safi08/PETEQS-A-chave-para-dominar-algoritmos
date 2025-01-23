@@ -9,6 +9,7 @@ Com base na ementa e nos objetivos da disciplina de 'Projeto e Desenvolvimento d
 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
+https://github.com/Safi08/PETEQS-A-chave-para-dominar-algoritmos/blob/main/PETEQS%20-%20A%20chave%20para%20dominar%20algoritmos.pdf
 
 
 💭 Reflexão (Opcional)
