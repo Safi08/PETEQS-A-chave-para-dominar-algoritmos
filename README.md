@@ -4,7 +4,7 @@ A programação é uma habilidade essencial no mundo da tecnologia, e o primeiro
 Neste eBook, exploraremos os conhecimentos fundamentais necessários para a aprendizagem de algoritmos usando pseudocódigo PETEQS, com exemplos práticos para facilitar o entendimento. 🎯📚🔍
 
 🧐 Prompts utilizados
-Com base na ementa e nos objetivos da disciplina de 'Projeto e Desenvolvimento de Algoritmos' do 1º semestre de cursos de TI, utilizei o 'ChatGPT' para estruturar o e-book e aprimorar minhas ideias. Para a criação dos slides e a adaptação dos conteúdos, utilizei a ferramenta 'Gamma'.
+"Faça um texto para ebook, com foco, em pseudocódigo PETEQS, listando os conhecimentos básicos para aprendizagem de algoritmos, com exemplos de códigos. "
 
 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
